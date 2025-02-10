@@ -43,8 +43,5 @@ Implantação e Aplicação:
 🔎 Resultados Esperados
 A ideia é que este modelo possa ser usado para auxiliar profissionais de saúde, fornecendo insights rápidos e confiáveis sobre pacientes com risco de depressão. Isso pode permitir uma triagem mais eficiente, facilitando encaminhamentos para avaliação psicológica detalhada.
 
-<video width="100%" controls>
-  <source src="<video width="100%" controls>
-  <source src="https://drive.google.com/file/d/1CjF4c_in4P8E7f58ugoMtm8FN4_IP8RS/view?usp=sharing">
-  Seu navegador não suporta vídeos HTML5.
-</video>">
+<iframe src="https://drive.google.com/file/d/1CjF4c_in4P8E7f58ugoMtm8FN4_IP8RS/view?usp=sharing" width="100%" height="500"></iframe>
+
