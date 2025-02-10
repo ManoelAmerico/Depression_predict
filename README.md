@@ -48,5 +48,3 @@ A ideia é que este modelo possa ser usado para auxiliar profissionais de saúde
   <source src="https://drive.google.com/file/d/1CjF4c_in4P8E7f58ugoMtm8FN4_IP8RS/view?usp=sharing">
   Seu navegador não suporta vídeos HTML5.
 </video>">
-  Seu navegador não suporta vídeos HTML5.
-</video>
