@@ -1,6 +1,6 @@
-Detecção de Pacientes com Potencial Diagnóstico de Depressão
+# Detecção de Pacientes com Potencial Diagnóstico de Depressão
 
-📌 Introdução
+# 📌 Introdução
 A depressão é uma condição de saúde mental que afeta milhões de pessoas no mundo, muitas vezes sem diagnóstico ou tratamento adequado. Este projeto de Ciência de Dados tem como objetivo identificar pacientes com maior probabilidade de estarem enfrentando depressão, utilizando técnicas de Machine Learning.
 
 🎯 Objetivo
