@@ -1,3 +1,0 @@
-pandas==2.1.4
-streamlit==1.41.1
-pycaret==3.3.2
